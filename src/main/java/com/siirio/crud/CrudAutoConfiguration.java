@@ -1,9 +1,9 @@
-package com.temirlan.crud;
+package com.siirio.crud;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("com.temirlan.crud")
+@ComponentScan("com.siirio.crud")
 public class CrudAutoConfiguration {
 }
